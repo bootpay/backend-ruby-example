@@ -1,12 +1,8 @@
-# Bootpay Ruby Server Side Library
 
-부트페이 공식 Ruby 라이브러리 입니다 (서버사이드 용)
+## Bootpay Ruby Library Example 
+부트페이 공식 Ruby 라이브러리 샘플 프로젝트 입니다
 
 Ruby 언어로 작성된 어플리케이션, 프레임워크 등에서 사용가능합니다.
-
-* PG 결제창 연동은 클라이언트 라이브러리에서 수행됩니다. (Javascript, Android, iOS, React Native, Flutter 등)
-* 결제 검증 및 취소, 빌링키 발급, 본인인증 등의 수행은 서버사이드에서 진행됩니다. (Java, PHP, Python, Ruby, Node.js, Go, ASP.NET 등)
-
 
 ## 기능
 1. (부트페이 통신을 위한) 토큰 발급
